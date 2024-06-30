@@ -1,0 +1,25 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/circular_progress_gray.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/item_circular_accent_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/item_circular_color_accent.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/item_circular_thin_color_backgroundm.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/drawable/item_color_accent_border_ripple.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/layout/activity_excercise.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/layout/finish.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/7MinworkOut2/app/src/main/res/layout/item_excercie_status.xml" value="0.7333333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
